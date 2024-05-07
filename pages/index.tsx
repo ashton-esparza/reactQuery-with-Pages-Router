@@ -6,7 +6,7 @@ import styles from "../styles/home.module.css";
 // TanStack Query Demo
 //
 // Goals:
-// List a collection of exisitng Todos through a query
+// List a collection of existing Todos through a query
 // Create Todos using a mutation
 //
 // Steps:
